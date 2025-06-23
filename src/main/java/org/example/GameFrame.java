@@ -21,7 +21,8 @@ public class GameFrame extends JFrame implements ActionListener{
     int boardWidth;
     int boardHeight;
     int mineCount;
-    
+
+
     int tileClicked = 0;
     boolean gameOver = false;
     
