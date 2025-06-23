@@ -5,7 +5,6 @@
 package org.example;
 
 import javax.swing.JButton;
-import javafx.scene.control.Button;
 
 /**
  * @author Mai Huu Van
